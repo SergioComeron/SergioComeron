@@ -7,6 +7,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="SWIFT" alt="SWIFT" width="25" height="25"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="25" height="25"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="GCLOUD" alt="GCLOUD" width="25" height="25"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" title="MOODLE" alt="MOODLE" width="25" height="25"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="APPLE" alt="APPLE" width="25" height="25"/>&nbsp;
 
 
 <!--
